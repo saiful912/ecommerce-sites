@@ -1,0 +1,129 @@
+    /* Desktop :992px. */
+    
+    @media (min-width: 992px) and (max-width: 1200px) {
+	.main-menu ul li{
+    margin-left: 20px;}
+.features-area {
+    margin-top: 0;
+    padding-top: 100px;
+}
+.slider-inner h2{
+	font-size:44px;
+}
+.about-image img {
+    width: 100%;
+}
+.blog-thumb img {
+    width: 100%;
+} 
+	}
+    /* Tablet desktop :768px. */
+    
+    @media (min-width: 768px) and (max-width: 991px) {
+.header-area {
+    padding: 20px 40px;
+    padding-bottom: 10px;
+}
+.features-area {
+    margin-top: 0;
+    padding-top: 100px;
+}
+.slider-inner h2{
+	font-size:35px;
+}
+.slider-inner p{
+	margin-bottom:25px;
+}
+.single-features {
+    border-bottom: 1px solid#ddd;
+}
+.theme-bg.col-xl-4:last-child.single-features{
+	border-bottom:0;  
+}
+.about-image {
+    padding-top: 40px;
+}
+.subscribe-form input {
+	width: 24%;
+}
+.single-active{
+	background-size:cover;
+	background-position:center
+}
+	
+	}
+    /* Extra small Device. */
+    
+    @media (max-width: 767px) {
+.header-area {
+    padding: 20px 40px;
+    padding-bottom: 10px;
+}	
+.single-active{
+	background-size:cover;
+	background-position:center
+}	
+.features-area {
+    margin-top: 0;
+    padding-top: 100px;
+}		
+.single-features {
+    border-bottom: 1px solid#ddd;
+}
+.theme-bg.col-xl-4:last-child.single-features{
+	border-bottom:0;  
+}
+.slider-inner h2 {
+	font-size: 30px;
+}
+.slider-inner p{
+	margin-bottom:25px;
+}
+.about-image {
+    padding-top: 40px;
+}
+.subscribe-form input {
+	width: 100%;
+	margin-bottom: 15px;
+}
+.pricing-item {
+	width: 100%;
+}
+.testimonial-item {
+	padding: 60px 30px;
+}
+.testimonial-area{
+	background-size:cover;
+	background-position:center center;
+}
+.news-thumb {
+	width: 50%;
+}
+.copyright-text{
+	text-align:center;
+	margin-bottom:10px;
+}
+.footer-menu ul {
+	margin-left: 150px;
+}
+ .about-image img {
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+		
+	}
+    /* SM Small Device :550px. */
+    
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+		
+	}
